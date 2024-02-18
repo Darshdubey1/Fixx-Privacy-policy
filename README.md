@@ -1,1 +1,1 @@
-# Fixx-Privacy-policy
+Fixx Is Collecting Server Members Or Users User Id Because Many  Like Afk In Afk When You Enter The Command It Will Store Your User Id In Afk Database To Work Properly And In Premium System It Will Store Your User Id In Premium Database So Your Premium Wouldn't Get Harmed In No Prefix System It Will Store Your User Id For No Prefix And You Will Get Better Experience Of Bot
